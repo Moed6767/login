@@ -1,0 +1,66 @@
+        .paper2{
+        margin-top: 100px;
+            text-align: center;
+            color: #fff;
+            font-size: 20px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
+        
+            width: 380px;
+   background: rgb(50, 36, 36);
+   border-radius: 15px;
+   box-shadow: 0px 15px 20px rgba(0, 0,0, 1);
+   border: solid; 
+        }
+        .paper{
+        
+            width: 380px;
+   background: #fff;
+   border-radius: 15px;
+   box-shadow: 0px 15px 20px rgba(0, 0,0, 1);
+   border: solid;
+        }
+        
+      input{
+        margin-top: 8px;
+        display: block; 
+        padding: 10px;
+   font-size:17px ;
+   padding-left: 20px;
+   border-radius: 25px; 
+   border: 1px solid lightgrey;    
+    }
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+}
+table{
+    width: 100%;
+    height: 50px;
+    border: ridge;
+    background-color: #fff;
+    text-align: right;
+    margin-right: 20px;
+    font-size: 36px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ; ;
+}
+td{
+    border: 1px ridge black;
+}
+
+th{
+    border: 1px solid;
+}
+
+.table{
+    width: 99%;
+    margin-right: 200px;
+    margin-top: 20px;
+    border: 1px solid black;
+}
+a{
+    font-size: 50px;
+    text-align: center;
+    text-decoration: none;
+    
+}
